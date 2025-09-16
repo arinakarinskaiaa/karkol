@@ -1,0 +1,29 @@
+#btnhi {
+    color: #9e1200;
+}
+
+#blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 10px;
+}
+
+#red {
+    width: 100px;
+    height: 100px;
+    background-color: #9e1200;
+    margin: 10px;
+}
+
+#green {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(9, 255, 0);
+    margin: 10px;
+}
+
+.squares {
+    display: flex;
+    flex-direction: row;
+}
