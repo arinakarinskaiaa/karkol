@@ -80,6 +80,7 @@ function summa() {
 }
 btnval2.addEventListener('click', summa)
 
+console.log('new');
 
 
 // не - !
